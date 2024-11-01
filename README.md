@@ -15,7 +15,7 @@ Code:
 
   - An IPython notebook file with the project code.
 
-  - For a more user-friendly view, our code is also available on Google Colab here:
+  - For a more user-friendly view, our code is also available on Google Colab here (open for TAU members):
   [Google Colab Notebook](https://colab.research.google.com/drive/14Zzuu8cBdNZDL11Q2dQeCYbNF9MVm5Di#scrollTo=lNt0OdhyvRkM)
   
   The notebook includes the final code used for running the CNN models and analyzing results, along with some legacy code for sections not covered in the report.
