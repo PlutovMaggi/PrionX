@@ -1,6 +1,7 @@
-# PrionX
-AI Algorithms for Structural Biology Project - Maggi Plutov
-======
+# AI Algorithms for Structural Biology Project - PrionX
+
+Final grade - 98
+
 This repository contains all the results from our PrionX project:
 
 Data Folder:
@@ -14,9 +15,9 @@ Code:
 
   - An IPython notebook file with the project code.
 
-  For a more user-friendly view, our code is also available on Google Colab here:
-  Google Colab Notebook
-
+  - For a more user-friendly view, our code is also available on Google Colab here:
+  [Google Colab Notebook](https://colab.research.google.com/drive/14Zzuu8cBdNZDL11Q2dQeCYbNF9MVm5Di#scrollTo=lNt0OdhyvRkM)
+  
   The notebook includes the final code used for running the CNN models and analyzing results, along with some legacy code for sections not covered in the report.
 
 
